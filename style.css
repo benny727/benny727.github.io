@@ -88,6 +88,12 @@ header{
 #about p{
 	margin-bottom:30px;
 }
+.resume-btn{
+	text-transform:uppercase;
+	color:#000;
+	border:1px solid #000;
+	background:#B21F24;
+}
 .project:after, .project:before {
   position:absolute;
   opacity:0;
