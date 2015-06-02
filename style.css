@@ -90,9 +90,13 @@ header{
 }
 .resume-btn{
 	text-transform:uppercase;
+	color:#B21F24;
+	border:1px solid #B21F24;
+}
+.resume-btn:hover{
+	text-decoration:none;
 	color:#000;
 	border:1px solid #000;
-	background:#B21F24;
 }
 .project:after, .project:before {
   position:absolute;
