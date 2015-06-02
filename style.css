@@ -85,7 +85,7 @@ header{
 	padding: 20px 0;
 	margin-bottom: 30px;
 }
-.about p{
+#about p{
 	margin-bottom:30px;
 }
 .project:after, .project:before {
